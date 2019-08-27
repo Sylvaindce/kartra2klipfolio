@@ -1,0 +1,11 @@
+{
+    "klipfolio" : {
+        "api_url" : "https://app.klipfolio.com/api/1.0/",
+        "api_key" : "YOUR API KEY HERE",
+        "default_user_role" : "YOUR DATABASE ROLE ID HERE",
+        "default_user_status" : "trial",
+        "default_trial" : 14,
+        "default_description" : "happy dashboarding"
+    },
+    "kartra" : {}
+}

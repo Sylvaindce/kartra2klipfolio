@@ -1,0 +1,22 @@
+{
+    "name": "kartra2klipfolio",
+    "version": "0.0.1",
+    "description": "Get Post from Kartra and redirect datas to Klipfolio",
+    "main": "main.js",
+    "scripts": {
+        "start": "node main.js"
+    },
+    "engines": {
+        "node": ">= 11.00.0"
+    },
+    "os": [
+        "darwin",
+        "linux",
+        "win32"
+    ],
+    "dependencies": {
+        "express": "^4.17.1",
+        "package.json": "^2.0.1",
+        "request": "latest"
+    }
+}
